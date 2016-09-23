@@ -1,4 +1,4 @@
-This branch contains source codes and their executable jar files to the DSFS algorithm introduced in the paper entitled "Unsupervised Feature Selection for Outlier Detection by Modelling Hierarchical Value-Feature Couplings", which is accepted by the 2016 IEEE 16th International Conference on Data Mining (ICDM2016).
+This branch contains source codes and their executable jar files to the DSFS algorithm introduced in the paper entitled "Unsupervised Feature Selection for Outlier Detection by Modelling Hierarchical Value-Feature Couplings", which is accepted as regular paper by the 2016 IEEE 16th International Conference on Data Mining (ICDM2016).
 
 DSFS is a parameter-free unsupervised outlying feature selection method, which can achieve a substantial feature reduction rate, while at the same time enable outlier detection methods to perform much better or comparably well on the data sets with selected features than on the original feature set. The abstract of the paper is as follows:
 
